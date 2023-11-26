@@ -7,3 +7,6 @@ To be used on all HTML file for web
 
 https://github.com/Ty-Portfolio-main/Education/blob/0bbf7aac8d36d254408bdc204c9450799b561209/HTML/01%20Lesson/index.html#L2
 Defines what lang the sile is in using "lang=en", you can also establish district like USA. Using "-US" at the end.
+
+        <meta charset="UTF-8"> 
+            - A Standard for Meta Data information to be used
