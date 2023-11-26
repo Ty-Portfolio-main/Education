@@ -17,10 +17,17 @@ This is CSS that enables a Dark Mode theme to the site.
         <title> T. Baxter HQ</title> 
                 - The Title Name of the window tab.
 # Lesson 2
+https://github.com/Ty-Portfolio-main/Education/blob/6d887ada229b781dc0714c4a026d15f5c32f6093/HTML/02%20Lesson/index.html#L8
+This is used to establish the icon on the left side of the window tab you would like to use (Logo)
+
+https://github.com/Ty-Portfolio-main/Education/blob/6d887ada229b781dc0714c4a026d15f5c32f6093/HTML/02%20Lesson/index.html#L9
+Here we used our CSS styling originally in HTML via a link. Referencing the doc. and labling what type it is.
+
         <meta name="author" content= "Tyler Baxter"> 
                 - Establishes an Author to the site with a name
+        <meta name="description" content="This page contains all the things i am learning how to create as i learn HTML and Full Stack Development">
+                - Give the site a discription of what it is for or about.
 
-revert
 
 
                 
