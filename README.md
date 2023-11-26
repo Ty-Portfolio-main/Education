@@ -12,8 +12,10 @@ https://github.com/Ty-Portfolio-main/Education/blob/daaa947fff288a73dd317af3d37d
 This is CSS that enables a Dark Mode theme to the site.
 
         <meta charset="UTF-8"> 
-            - A Standard for Meta Data information to be used.
+                - A Standard for Meta Data information to be used.
 
         <title> T. Baxter HQ</title> 
-            - The Title Name of the window tab.
-
+                - The Title Name of the window tab.
+# Lesson 2
+        <meta name="author" content= "Tyler Baxter"> 
+                - Establishes an Author to the site with a name
