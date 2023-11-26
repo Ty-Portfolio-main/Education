@@ -19,7 +19,6 @@ This is CSS that enables a Dark Mode theme to the site.
 # Lesson 2
         <meta name="author" content= "Tyler Baxter"> 
                 - Establishes an Author to the site with a name
-        <meta name="description" content="This page contains all the things i am learning how to create as i learn HTML and Full Stack Development">
-                - Adds a description to the site.
+
 
                 
