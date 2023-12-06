@@ -1,2 +1,2 @@
-# Education
+# HTML Tutorial Final Project
 Here is the Final Project from the HTML Tutorial for Beginners Youtube video that i created. This was done purely by looking at the example images and referencing my notes and work from the tutorial creating the foundations of my personal portfolio website in HTML. On areas i was stuck or got lost, referencing the HTML <tags> and <elements> was able to complete or fix what i was working on.
