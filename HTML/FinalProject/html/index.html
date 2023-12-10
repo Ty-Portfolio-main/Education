@@ -25,36 +25,85 @@
                         <a href="#menu">Our Menu</a>
                     </li>
                     <li>
-                        <a href="#hours">Store Hours</a>
+                        <a href="hours.html">Store Hours</a>
                     </li>
                     <li>
-                        <a href="#contact">Contact Us</a>
+                        <a href="contact.html">Contact Us</a>
                     </li>
                 </ul>
             </nav>
         
-            <!--how to indent this over???-->
-            <img src="/HTML/FinalProject/img/tacos_and_drink_400x267.png" alt="Tacis and a drink" width="400" height="267">
-            <p>Tacos and a Drink</p>
-
+            <p style="margin-left: 30px;">
+                <img src="/HTML/FinalProject/img/tacos_and_drink_400x267.png" alt="Tacis and a drink" width="400" height="267">
+            </p>
+            <p style="margin-left: 30px;">
+                Tacos and a Drink
+            </p>
+            
         
-
-
         <article id="about">
             <h2>About <abbr title="Little Taco Shop">LTS</abbr></h2>
                 <p>
-                    LTS ws gounded in 2022. Our shop was built from a love of tacos. We hope our shop adds a unique and interesting place to our little town.
+                    <abbr title="Little Taco Shop">LTS</abbr> was founded in 2022. Our shop was built from a <strong>love  of tacos🌮🌮🌮.</strong> We hope our shop adds a unique and interesting place to our little town.
                 </p>
             <h3>Taco Trivia</h3>
+                <details>
+                    <summary>When did tacos first appear in the United States?</summary>
+                    <p>Jeffrey M Pilcher, taco historian and professor of history at the University of Minnesota, says the earliest mention of tacos in the United States are in the newspaper from 1905. (<Source:media>Smithsonian Magazine</Source:media>)</p>
+                </details>
         </article>
         
+        <hr>
+
         <article id="menu">
             <h2>Our Menu</h2>
-        
+                <table>
+                    <caption>Our Tacos</caption>
+                    <tr>
+                        <th><Strong>Tacos</Strong></th>
+                        <th><strong>Qty</strong></th>
+                        <th><strong>Price</strong></th>
+                    </tr>
+                    <tr>
+                        <th rowspan="3"><strong>Crunchy</strong></th>
+                        <td>1</td>
+                        <td>$1.50</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>$2.50</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>$3.25</td>
+                    </tr>
+                    <tr>
+                        <th rowspan="3"><strong>Soft</strong></th>
+                        <td>1</td>
+                        <td>$2.00</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>$3.50</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>$4.50</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">Chips & Salsa $2</td>
+                    </tr>
+                </table>
         </article>
 
-    <footer>
+        <br>
 
+        <a href="#">Back To Top</a>
+
+        <hr>
+
+    <footer>
+        Copyright &copy; The Little Taco Shop
     </footer>
     </body>
 </html>
